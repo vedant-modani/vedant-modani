@@ -1,5 +1,7 @@
 I’m @vedant-modani
+
 I work on this portfolio as a side project whenever I find time.
+
 Some upcoming work includes:
 1. Fantasy Premier League Predictor
 2. Credit Risk Predictor
