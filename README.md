@@ -1,8 +1,11 @@
-- Hi, I’m @vedant-modani
-- I’m fairly experienced in SQL and Power BI
-- I’m currently developing my skills in Python, machine learning and linear programming.
-- I’m working on my portfolio as part of my job search.
-- I'm interested in sports, the transport industry, photography, motorsports, mountaineering, music, and movies.
+I’m @vedant-modani
+I work on this portfolio as a side project whenever I find time.
+Some upcoming work includes:
+1. Fantasy Premier League Predictor
+2. Credit Risk Predictor
+3. Stock Prices Predictor
+4. Data Viz project comparing the various invincible seasons in Top 5 European Football Leagues
+5. Untitled UK Trains Data Viz project
 
 <!---
 vedant-modani/vedant-modani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
