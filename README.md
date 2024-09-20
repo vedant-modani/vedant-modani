@@ -7,7 +7,7 @@ Some upcoming work includes:
 2. Credit Risk Predictor
 3. Stock Prices Predictor
 4. Data Viz project comparing the various invincible seasons in Top 5 European Football Leagues
-5. Untitled UK Trains Data Viz project
+5. UK Trains Data Viz project
 
 <!---
 vedant-modani/vedant-modani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
